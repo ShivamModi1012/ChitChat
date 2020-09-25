@@ -1,0 +1,41 @@
+#back1{
+     width:30px;
+    height:30px;
+}
+.container{
+    background-image: url('bk.jpg');
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.container1{
+    background-image: url('bk2.jpg'); 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 60vh;
+    overflow-y: auto;
+}
+.message{
+    background-color: lightgrey;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+#messageInp{
+    width:78%;
+    border-radius: 4px;
+}
+#se{
+    border-radius: 50px;
+    margin-left: 11%;
+}
